@@ -182,19 +182,3 @@ Invest in distributed tracing, structured logging, and real-time dashboards from
 There is no one-size-fits-all approach to agent orchestration. The right pattern depends on your scale, team structure, reliability requirements, and how quickly your agent fleet is growing. What matters most is choosing deliberately, building with observability from the start, and designing your orchestration layer so that it can evolve as your needs change. In production, the orchestration layer is not just plumbing: it is the foundation that determines whether your [multi-agent system](https://omnithium.ai/blog/why-multi-agent-systems-need-governance.html) is a reliable asset or an operational liability.
 
 For enterprises building multi-agent systems, [Omnithium](https://omnithium.ai) provides a unified platform for orchestrating, observing, and governing AI agents at scale. [Explore Omnithium pricing](https://omnithium.ai/pricing) or get a demo today.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/enterprise-ai-agent-orchestration-patterns).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
